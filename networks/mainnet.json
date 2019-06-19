@@ -1,0 +1,36 @@
+{
+  "title": "PHANTOM Explorer",
+  "server": "https://explorer.phantom.org:4200/api",
+  "alias": "Main",
+  "activeDelegates": 51,
+  "rewardOffset": 75600,
+  "currencies": {
+    "AUD": "A$",
+    "BRL": "R$",
+    "BTC": "Ƀ",
+    "CAD": "C$",
+    "CHF": "CHF",
+    "CNY": "¥",
+    "ETH": "Ξ",
+    "EUR": "€",
+    "GBP": "£",
+    "JPY": "¥",
+    "KRW": "₩",
+    "LTC": "Ł",
+    "NZD": "N$",
+    "RUB": "₽",
+    "USD": "$"
+  },
+  "knownWallets": {
+    "PmCBgBdhhLfJArNngRAAMAZkvzc11SVKtZ": "Genesis Wallet"
+  },
+  "defaults": {
+    "token": "ARK",
+    "symbol": "Ѧ",
+    "currency": {
+      "name": "USD",
+      "symbol": "$"
+    },
+    "priceChart": true
+  }
+}

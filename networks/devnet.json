@@ -1,0 +1,15 @@
+{
+  "title": "DPHANTOM Explorer",
+  "server": "http://95.183.52.105:4003/api",
+  "alias": "Development",
+  "activeDelegates": 51,
+  "rewardOffset": 10800,
+  "currencies": [],
+  "knownWallets": {},
+  "defaults": {
+    "token": "DARK",
+    "symbol": "DѦ",
+    "currency": null,
+    "priceChart": false
+  }
+}

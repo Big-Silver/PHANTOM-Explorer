@@ -1,0 +1,15 @@
+{
+  "title": "TPHANTOM Explorer",
+  "server": "http://95.183.53.28:4100/api",
+  "alias": "Testnet local",
+  "activeDelegates": 51,
+  "rewardOffset": 75600,
+  "currencies": [],
+  "knownWallets": {},
+  "defaults": {
+    "token": "TARK",
+    "symbol": "TѦ",
+    "currency": null,
+    "priceChart": false
+  }
+}
