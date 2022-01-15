@@ -109,7 +109,7 @@
     "rimraf": "^2.6.2",
     "selenium-server": "^3.141.59",
     "semver": "^5.5.0",
-    "shelljs": "^0.8.2",
+    "shelljs": "^0.8.5",
     "sinon": "^6.1.5",
     "sinon-chai": "^3.2.0",
     "tailwindcss": "0.6.4",
