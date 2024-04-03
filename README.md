@@ -11,7 +11,7 @@ You can access the TESTNET explorer it at [https://texplorer.phantom.org](https:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/PhantomChain/explorer
+git clone https://github.com/Big-Silver/PHANTOM-Explorer
 ```
 
 ### 2. Install Dependencies
